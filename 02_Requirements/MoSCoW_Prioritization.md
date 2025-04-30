@@ -1,0 +1,4 @@
+- **Must have**: Create, view, delete tasks, mark as done.
+- **Should have**: View completed tasks, edit title, add description.
+- **Could have**: Set priority, sort by priority, reminders.
+- **Won't have (initially)**: Features not defined in current scope.

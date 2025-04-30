@@ -1,0 +1,1 @@
+Describes how this plan is executed in an Agile Scrum framework with Product Backlog, Sprint Planning, Daily Stand-ups, Sprint Review, and Retrospective.

@@ -1,0 +1,1 @@
+Each user story includes given-when-then style acceptance criteria and Definition of Done statements, as detailed in the document.

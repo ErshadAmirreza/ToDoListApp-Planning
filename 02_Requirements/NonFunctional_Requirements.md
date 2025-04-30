@@ -1,0 +1,5 @@
+- **Performance**: Fast response and task loading.
+- **Reliability**: No crashes or data loss.
+- **Usability**: Intuitive and simple UI.
+- **Security**: Local data privacy ensured.
+- **Accessibility**: Support for users with disabilities.

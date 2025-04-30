@@ -1,0 +1,8 @@
+- Create new tasks (title + optional description).
+- View list of all tasks.
+- Mark tasks as completed.
+- View completed tasks.
+- Delete tasks.
+- Edit task title/description.
+- Set and sort tasks by priority.
+- Set reminders and receive notifications.

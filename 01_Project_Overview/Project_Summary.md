@@ -1,0 +1,1 @@
+This project outlines the planning and analysis of a simple personal To-Do List mobile application. The purpose is to demonstrate end-to-end documentation of a typical Agile product planning process, including requirements gathering, user stories, sprint planning, and Scrum framework alignment.
