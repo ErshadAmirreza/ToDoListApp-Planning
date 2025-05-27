@@ -8,27 +8,39 @@ This repository documents the full business analysis and planning process for a 
 
 ```
 /
-├── 01_Project_Overview/
-│   └── Project_Summary.md
-├── 02_Requirements/
-│   ├── Business_Requirements.md
-│   ├── Functional_Requirements.md
-│   ├── NonFunctional_Requirements.md
-│   └── MoSCoW_Prioritization.md
-├── 03_User_Stories/
-│   ├── Acceptance_Criteria_Definitions.md
-│   └── Epics_and_Stories.md
-├── 04_Scrum_Planning/
-│   ├── Sprint_1.md to Sprint_4.md
-│   └── Sprint_Backlog_Summary.md
-├── 05_Tasks_and_Estimation/
-│   └── Task_Breakdown_and_Estimation.md
-├── 06_UML_Diagrams/
-│   └── README.md
-├── 07_Presentation/
-│   └── Personal To-Do List Application.docx
-└── README.md
+├── 01_Project_Overview/         → Project summary and scope
+├── 02_Requirements/             → BRD, FRD, NFRs, MoSCoW prioritization
+├── 03_User_Stories/             → Epics, user stories, acceptance criteria
+├── 04_Scrum_Planning/           → Sprint-by-sprint planning documents
+├── 05_Tasks_and_Estimation/     → Task breakdown and time estimates
+├── 06_UML_Diagrams/             → Use case, activity, and flow diagrams
+├── 07_Presentation/             → Final project summary document
+└── README.md                    → Project overview (this file)
 ```
+
+---
+
+## 📋 Jira Project Summary (Scrum Board Structure)
+
+Although the Jira board is private, the following summarizes how planning was organized:
+
+- **Project Key**: `SCRUM`
+- **Total Epics**: 2
+  - `SCRUM-10`: Authentication & User Management
+  - `SCRUM-20`: Task Creation & User Dashboard
+
+- **Sprints**: 4 (2 weeks each)
+  - **Sprint 1**: Login UI, Register Page, Email Validation
+  - **Sprint 2**: Token-Based Auth, Forgot Password, Acceptance Tests
+  - **Sprint 3**: Task Create/Update/Delete, Task Filtering
+  - **Sprint 4**: Final Testing, Error Handling, Presentation
+
+- **Example Issues**:
+  - `SCRUM-101`: Design Login Page – ✅ Done
+  - `SCRUM-102`: Email Validation Feature – ✅ Done
+  - `SCRUM-201`: Create Task Functionality – 🔄 In Progress
+
+> 📎 All issues, estimation, status, and prioritization were managed via Jira Software Cloud (private board).
 
 ---
 
@@ -47,19 +59,6 @@ To update Jira issues directly from GitHub commits, use the Smart Commit format:
 ```bash
 git commit -m "SCRUM-101 #comment Designed login form #time 2h #done"
 ```
-
----
-
-## 📌 Jira Board & Key Issues
-
-| Item Type | Link |
-|-----------|------|
-| 🔷 Jira Scrum Board | [To-Do Scrum Board](https://ershadamirreza.atlassian.net/jira/software/projects/SCRUM/boards/1) |
-| 🧱 Epic – Authentication Module | [SCRUM-10](https://ershadamirreza.atlassian.net/browse/SCRUM-10) |
-| ✅ Task – Login Page Design | [SCRUM-101](https://ershadamirreza.atlassian.net/browse/SCRUM-101) |
-| ✅ Task – Email Validation | [SCRUM-102](https://ershadamirreza.atlassian.net/browse/SCRUM-102) |
-
-*Feel free to explore more tasks and epics from the Jira board.*
 
 ---
 
