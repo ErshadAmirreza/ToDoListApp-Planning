@@ -1,83 +1,81 @@
 # ✅ To-Do Tracking App – Agile Business Analysis Project
 
-This repository documents the full business analysis and planning process for a **To-Do List Tracking Application**, following Agile principles and using tools like **GitHub** and **Jira Software Cloud**.
+This repository documents the **Agile business analysis and planning** process for a personal **To-Do List Tracking Application**, designed as part of a hands-on learning project to demonstrate core competencies in **business analysis**, **scrum-based planning**, and **requirement documentation**.
+
+> 🚀 This project focuses on analysis, planning, and documentation — not implementation.
+
+---
+
+## 📌 Project Goals
+
+- Define and document business, functional, and non-functional requirements.
+- Develop user stories and epics using Agile methodology.
+- Create a sprint-based task breakdown and estimation plan.
+- Apply MoSCoW prioritization and backlog grooming techniques.
+- Support planning with UML diagrams and planning documentation.
 
 ---
 
 ## 📁 Repository Structure
 
-```
 /
-├── 01_Project_Overview/
-│   └── Project_Summary.md
-├── 02_Requirements/
-│   ├── Business_Requirements.md
-│   ├── Functional_Requirements.md
-│   ├── NonFunctional_Requirements.md
-│   └── MoSCoW_Prioritization.md
-├── 03_User_Stories/
-│   ├── Acceptance_Criteria_Definitions.md
-│   └── Epics_and_Stories.md
-├── 04_Scrum_Planning/
-│   ├── Sprint_1.md to Sprint_4.md
-│   └── Sprint_Backlog_Summary.md
-├── 05_Tasks_and_Estimation/
-│   └── Task_Breakdown_and_Estimation.md
-├── 06_UML_Diagrams/
-│   └── README.md
-├── 07_Presentation/
-│   └── Personal To-Do List Application.docx
-└── README.md
-```
+├── 01_Project_Overview/ → Project summary and scope
+├── 02_Requirements/ → BRD, FRD, NFRs, MoSCoW prioritization
+├── 03_User_Stories/ → Epics, user stories, acceptance criteria
+├── 04_Scrum_Planning/ → Sprint-by-sprint planning documents
+├── 05_Tasks_and_Estimation/ → Task breakdown and time estimates
+├── 06_UML_Diagrams/ → Use case, activity, and flow diagrams
+├── 07_Presentation/ → Final project summary document
+└── README.md → Project overview (this file)
+
 
 ---
 
-## 🔗 GitHub + Jira Integration
+## 🧠 Tools & Methodologies
 
-This project uses the **[GitHub for Jira](https://marketplace.atlassian.com/apps/1219672/github-for-jira)** plugin to automatically link Jira issues with:
-
-- GitHub commits  
-- Pull requests  
-- Branches
-
-### 🧠 Smart Commit Example
-
-To update Jira issues directly from GitHub commits, use the Smart Commit format:
-
-```bash
-git commit -m "SCRUM-101 #comment Designed login form #time 2h #done"
-```
-
----
-
-## 📌 Jira Board & Key Issues
-
-| Item Type | Link |
-|-----------|------|
-| 🔷 Jira Scrum Board | [To-Do Scrum Board](https://ershadamirreza.atlassian.net/jira/software/projects/SCRUM/boards/1) |
-| 🧱 Epic – Authentication Module | [SCRUM-10](https://ershadamirreza.atlassian.net/browse/SCRUM-10) |
-| ✅ Task – Login Page Design | [SCRUM-101](https://ershadamirreza.atlassian.net/browse/SCRUM-101) |
-| ✅ Task – Email Validation | [SCRUM-102](https://ershadamirreza.atlassian.net/browse/SCRUM-102) |
-
-*Feel free to explore more tasks and epics from the Jira board.*
-
----
-
-## 🛠 Tools & Technologies
-
+- **Jira Software Cloud** – for backlog, sprint, and task management
 - **GitHub** – version control and documentation
-- **Jira Software Cloud** – sprint planning, backlog, and task tracking
-- **Markdown** – documentation formatting
-- **Draw.io / Lucidchart** – UML diagrams
+- **Markdown** – formatting project documentation
+- **Draw.io / Lucidchart** – UML diagram creation
+- **Agile Scrum** – development methodology
+
+---
+
+## 🗂 Jira Project Overview (Private Workspace)
+
+The Agile planning for this project is managed using Jira (private board), structured as follows:
+
+- **2 Epics:**  
+  - `Authentication and User Management`  
+  - `Task Creation and Tracking`
+
+- **4 Sprints:**  
+  - Each covering a 2-week development cycle  
+  - With estimated and prioritized tasks and stories
+
+> 🧾 Note: Links to Jira issues and boards are omitted due to access restrictions.
 
 ---
 
 ## 🙋‍♂️ Author
 
 **Amirreza Ershad**  
-[GitHub Profile](https://github.com/ershadamirreza)  
-[LinkedIn](https://www.linkedin.com/in/amirreza-ershad-99439a94/) 
+Agile Business Analyst | System Analyst | ERP Specialist  
+[GitHub](https://github.com/ershadamirreza) | [LinkedIn](https://www.linkedin.com/in/amirreza-ershad-99439a94/)
 
 ---
 
-> 💡 This project is a demonstration of Agile business analysis, backlog management, and technical planning practices for junior-to-intermediate BA roles.
+## 💡 Why This Project?
+
+This repository serves as a **demonstration portfolio** for recruiters, hiring managers, and peers to showcase my ability to:
+
+- Conduct structured business analysis
+- Develop actionable Agile plans
+- Break down requirements into well-defined user stories and tasks
+- Organize development work in sprints and backlogs
+
+---
+
+## 📬 Questions or Feedback?
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amirreza-ershad-99439a94/) or open an issue in this repository.
