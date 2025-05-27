@@ -24,10 +24,13 @@ This repository documents the full business analysis and planning process for a 
 
 Although the Jira board is private, the following summarizes how planning was organized:
 
-- **Project Key**: `SCRUM`
-- **Total Epics**: 2
-  - `SCRUM-10`: Authentication & User Management
-  - `SCRUM-20`: Task Creation & User Dashboard
+**Project Key:** TDTA
+
+**Total Epics:** 2  
+
+TDTA-1: User Authentication & Profile Management  
+TDTA-2: Task Management & Dashboard  
+
 
 - **Sprints**: 4 (2 weeks each)
   - **Sprint 1**: Login UI, Register Page, Email Validation
